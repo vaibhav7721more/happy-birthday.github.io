@@ -1,0 +1,27 @@
+*{
+    background-image: url(/vvv.gif);
+    
+    
+    
+}
+
+.button{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    text-replace:(-50,-50%);
+}
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+
+  
+ 
+  }
+  .button a:hover{
+    background-color: rgb(22, 17, 36);
+
+  }
+  
